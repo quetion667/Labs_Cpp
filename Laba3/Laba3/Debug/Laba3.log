@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\antro\source\repos\Laba3\Laba3\MyForm.h(447,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba3\Laba3\MyForm.h(460,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba3\Laba3\MyForm.h(473,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba3\Laba3\MyForm.h(506,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba3\Laba3\MyForm.h(564,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba3\Laba3\MyForm.cpp(10,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba3.vcxproj -> C:\Users\antro\source\repos\Laba3\Debug\Laba3.exe
