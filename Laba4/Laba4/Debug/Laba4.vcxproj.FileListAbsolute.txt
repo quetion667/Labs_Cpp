@@ -1,0 +1,3 @@
+C:\Users\antro\source\repos\Laba4\Laba4\Debug\Laba4.vcxprojAssemblyReference.cache
+C:\Users\antro\source\repos\Laba4\Laba4\Debug\Laba4.MyForm.resources
+C:\Users\antro\source\repos\Laba4\Laba4\Debug\Laba4.vcxproj.GenerateResource.cache
