@@ -1,0 +1,22 @@
+﻿  MyForm.cpp
+C:\Users\antro\source\repos\Laba5\Laba5\Header.h(53,14): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba5\Laba5\Header.h(24,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\antro\source\repos\Laba5\Laba5\Header.h(12,10): warning C4101: ch_file: неиспользованная локальная переменная
+C:\Users\antro\source\repos\Laba5\Laba5\Header_find_num.h(39,11): warning C4244: инициализация: преобразование "_Ty" в "char", возможна потеря данных
+          with
+          [
+              _Ty=wchar_t
+          ]
+C:\Users\antro\source\repos\Laba5\Laba5\Header_find_num.h(51,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba5\Laba5\Header_find_num.h(23,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\antro\source\repos\Laba5\Laba5\Header_find_num.h(15,10): warning C4101: ch_for_stream: неиспользованная локальная переменная
+C:\Users\antro\source\repos\Laba5\Laba5\Header_find_num.h(11,13): warning C4101: out: неиспользованная локальная переменная
+C:\Users\antro\source\repos\Laba5\Laba5\Header_encrypt.h(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba5\Laba5\Header_encrypt.h(51,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\antro\source\repos\Laba5\Laba5\Header_encrypt.h(24,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\antro\source\repos\Laba5\Laba5\Header_encrypt.h(13,10): warning C4101: ch_for_stream: неиспользованная локальная переменная
+C:\Users\antro\source\repos\Laba5\Laba5\MyForm.h(292,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\antro\source\repos\Laba5\Laba5\MyForm.h(323,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\antro\source\repos\Laba5\Laba5\MyForm.cpp(10,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba5.vcxproj -> C:\Users\antro\source\repos\Laba5\Debug\Laba5.exe
